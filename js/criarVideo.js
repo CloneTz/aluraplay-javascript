@@ -10,7 +10,6 @@ async function criarVideo(evento) {
   const descricao = Math.floor(Math.random() * 10).toString();
 
   await conectaApi.criaVideo(titulo, descricao, url, imagem);
-
   window.location.href = "../pages/envio-concluido.html";
 }
 

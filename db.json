@@ -71,32 +71,32 @@
       "id": 10
     },
     {
-      "titulo": "Educação coorporativa",
-      "descricao": "4 mil visualizações",
-      "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
-      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
-      "id": 11
-    },
-    {
-      "titulo": "Educação coorporativa",
-      "descricao": "7 mil visualizações",
-      "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
-      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
-      "id": 12
-    },
-    {
       "titulo": "Tutorial FRAMER: Como CRIAR um SITE com IA?",
       "descricao": "8 mil visualizações",
       "url": "https://www.youtube.com/embed/IXCejzBC21Q",
       "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
-      "id": 13
+      "id": 11
     },
     {
-      "id": "09d0",
-      "titulo": "NADA consegue VIVER aqui",
-      "descricao": "6 mil visualizações",
-      "url": "https://www.youtube.com/embed/lI4UWC1C1Yw",
-      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg"
+      "id": "a331",
+      "titulo": "Desvendando a LURI: explore o PODER da IA da ALURA",
+      "descricao": "4 mil visualizações",
+      "url": "https://www.youtube.com/embed/_8up2q-TZMQ",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": "dce7",
+      "titulo": "Como usar o GitHub Copilot no VS Code?",
+      "descricao": "1 mil visualizações",
+      "url": "https://www.youtube.com/embed/oC4sXvg0Ci8",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": "3845",
+      "titulo": "Como deixar o Layout Responsivo no seu site | #AluraMais",
+      "descricao": "7 mil visualizações",
+      "url": "https://www.youtube.com/embed/kyFiT4ofMwk",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
     }
   ]
 }
